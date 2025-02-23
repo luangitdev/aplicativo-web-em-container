@@ -148,9 +148,3 @@ Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 - **Email**: seu.email@example.com
 - **LinkedIn**: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
 - **GitHub**: [github.com/seu-usuario](https://github.com/seu-usuario)
-
----
-
-Esse modelo de documentação é claro, conciso e cobre todos os aspectos importantes do projeto. Certifique-se de personalizá-lo com suas informações específicas, como o nome do repositório, seu nome e contatos. Além disso, adicione qualquer outra seção relevante, como exemplos de uso ou testes, se necessário.
-
-Se precisar de mais ajuda ou quiser ajustar algo, fique à vontade para perguntar! 😊
