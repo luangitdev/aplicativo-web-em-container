@@ -144,7 +144,7 @@ Este projeto está licenciado sob a **MIT License**. Veja o arquivo [LICENSE](LI
 
 Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 
-- **Nome**: Seu Nome
-- **Email**: seu.email@example.com
-- **LinkedIn**: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
-- **GitHub**: [github.com/seu-usuario](https://github.com/seu-usuario)
+- **Nome**: Luan Castro
+- **Email**: luandecastrosilva@gmail.com
+- **LinkedIn**: [linkedin.com/in/luancastrosilva](https://www.linkedin.com/in/luancastrosilva/)
+- **GitHub**: [github.com/luangitdev](https://github.com/luangitdev)
