@@ -77,7 +77,7 @@ docker build -t flask-app .
 Depois de construir a imagem, execute o container com o seguinte comando:
 
 ```bash
-docker run -p 5000:5000 flask-app
+docker run -dit -p 5000:5000 flask-app
 ```
 
 Isso mapeará a porta `5000` do container para a porta `5000` do host.
